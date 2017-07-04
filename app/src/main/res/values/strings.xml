@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatTheDickens</string>
+    <string name="submitButton">Countify</string>
+    <string name="enteryBox">Enter wordings</string>
+</resources>
